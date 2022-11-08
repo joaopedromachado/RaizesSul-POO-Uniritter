@@ -1,0 +1,28 @@
+{
+  "files": {
+    "Matricula.cpp": [
+      {
+        "id": "679c3f5a-f74d-460f-ac5b-467d0f35980a",
+        "line": 1,
+        "version": 1139,
+        "index": 0
+      }
+    ],
+    "Matricula.hpp": [
+      {
+        "id": "931a9e8e-b243-4e8a-853b-b1a166759b56",
+        "line": 10,
+        "version": 928,
+        "index": 189
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "114f89fe-5620-4d4d-b049-6a6297779d07",
+        "line": 3,
+        "version": 3161,
+        "index": 22
+      }
+    ]
+  }
+}
